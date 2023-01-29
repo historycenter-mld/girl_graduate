@@ -9,10 +9,10 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-url: https://mldhistory.github.io
+url: https://mldhistory.github.io 
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-baseurl: /girl_graduate
+baseurl: /girl_graduate 
 # location of code, the full url to your github repository
 source-code: https://github.com/mldhistory/girl_graduate
 
@@ -22,27 +22,28 @@ source-code: https://github.com/mldhistory/girl_graduate
 # title of site appears in banner
 title: Girl Graduate
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a glimpse into the life of Ardath L. Caldwell
+tagline: A glimpse into the life of Meridian Teenager, Ardath L. Caldwell
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Ardath Lillian Caldwell was a Meridian High School Graduate - Class of 1922"
+description: "Ardath Caldwell was a graduate of Meridian High School - Class of 1922"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Meridian History Center
+author: Meridian Library District
+
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: girl_graduate2
+metadata: girl_graduate2 
 
 ##########
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+#organization-name: "Meridian Library District"
+#organization-link: https://www.mld.org/resources/history
+#organization-logo-banner: /assets/img/mld-logo.png
+#organization-logo-nav: /assets/img/mld-logo.png
 
 
 
@@ -60,7 +61,7 @@ metadata: girl_graduate2
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true
+#noindex: true 
 
 ##########
 # BUILD SETTINGS 
