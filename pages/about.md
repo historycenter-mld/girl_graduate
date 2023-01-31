@@ -15,7 +15,7 @@ credits: true
 Ardath Caldwell's scrapbook contains a rare insight into the life of a Meridian High School teen in the early 1920's. Raised in a middle-to-upper class family in 1922, her life wasn't that different from today's typical teenager - with the exception of modern technology! She enjoyed parties, socializing with friends, school dances and other activities. The scrapbook documents various milestones in her life and gives us a glimpse into her time at Meridian High School.
 
 ## The Class of 1922
-The Meridian History Center has many of the original Meridian High School yearbooks dating from 1921. According to the 1922 <i>Mana Ha Sa</i> yearbook, the class of 1922 started with 53 freshman and graduated 36 students. This was seen as an achievemet at a time when children frequently dropped out of school. 
+The Meridian History Center has many of the original Meridian High School yearbooks dating from 1921. According to the 1922 <i>Mana Ha Sa</i> yearbook, the class of 1922 started with 53 freshman and graduated 36 students. This was an accomplishment at a time when children frequently dropped out of school to assist with farm work or family care. 
 
 The yearbook's dedication is as follows:<br><i>To our parents and to all<br>Who have made possible<br>The Meridian High School<br>We dedicate the second volume of the<br>Mana Ha Sa</i>
 
