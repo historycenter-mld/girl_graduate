@@ -20,7 +20,7 @@ source-code: https://github.com/mldhistory/girl_graduate
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Girl Graduate
+title: Girl Graduate - Her Own Book
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: A glimpse into the life of Meridian teenager, Ardath L. Caldwell
 # description appears in meta tags and other locations
@@ -34,7 +34,7 @@ author: Meridian Library District
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: graduate4
+metadata: graduate5
 
 ##########
 # Site/Organization Branding 
