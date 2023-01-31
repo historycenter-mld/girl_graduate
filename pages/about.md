@@ -7,21 +7,18 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+{% include feature/jumbotron.html objectid="featured_col007" %}
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/nav-menu.html sections="About the Girl Graduate Scrapbook;The Class of 1922" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+## About the Girl Graduate Scrapbook
+Ardath Caldwell's scrapbook contains a rare insight into the life of a Meridian High School teen in the early 1920's. Raised in a middle-to-upper class family in 1922, her life wasn't that different from today's typical teenager - with the exception of modern technology! She enjoyed parties, socializing with friends, school dances and other activities. The scrapbook documents various milestones in her life and gives us a glimpse into her time at Meridian High School.
 
-## About the Collection
+## The Class of 1922
+The Meridian History Center has many of the original Meridian High School yearbooks dating from 1921. According to the 1922 <i>Mana Ha Sa</i> yearbook, the class of 1922 started with 53 freshman and graduated 36 students. This was seen as an achievemet at a time when children frequently dropped out of school. 
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+The yearbook's dedication is as follows:<br><i>To our parents and to all<br>Who have made possible<br>The Meridian High School<br>We dedicate the second volume of the<br>Mana Ha Sa</i>
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+Ardath Caldwell participated in several class plays, as depicted in the scrapbook. The yearbook's "class prophecy" predicted she would become a famous actress. The "class will" for Ardath reads: <i>Ardath Caldwell, the future city "dadess" leaves her council capacity to "Chuck" Morford.</i>
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+What became of Ardath Caldwell is unknown. Anyone who has information is welcome to contact us so we can update our records.
