@@ -21,4 +21,4 @@ The yearbook's dedication is as follows:<br><i>To our parents and to all<br>Who 
 
 Ardath Caldwell participated in several class plays, as depicted in the scrapbook. The yearbook's "class prophecy" predicted she would become a famous actress. The "class will" for Ardath reads: <i>Ardath Caldwell, the future city "dadess" leaves her council capacity to "Chuck" Morford.</i>
 
-What became of Ardath Caldwell is unknown. Anyone who has information is welcome to contact us so we can update our records.
+What became of Ardath Caldwell is unknown. We would love to know if she was able to fulfill her dream of becomming an actress! Anyone who has information is welcome to contact us so we can update our records.
