@@ -21,6 +21,7 @@ The yearbook's dedication is as follows:<br><i>To our parents and to all<br>Who 
 
 Ardath Caldwell participated in several class plays, as depicted in the scrapbook. The yearbook's "Class Prophecy" predicted she would become a famous actress. The "Class Will" for Ardath reads: <i>Ardath Caldwell, the future city "dadess" leaves her council capacity to "Chuck" Morford.</i>
 
+The below "Liars License" is folded into the scrapbook and appears to have been awarded to Ardath years after her high school days. It's a tongue-in-cheek award that reads "KNOW YE ALL that Ardath Caldwell having satisfied the local Council A.R. and I. O. of P. that he is a duly qualified <i>First Class Liar</i>, is hereby entitled to lie at any and all times until the 31st day of December, 1930". Witnessed by "Old Nick" and signed by "O.B. Dam" the license is numbered 10002.
 {% include feature/image.html objectid="/objects/col007_gg_ph57.jpg" width="75" %}
 
 What became of Ardath Caldwell is unknown. We would love to know if she was able to fulfill the class prophecy! Anyone who has information is welcome to contact us so we can update our records.
