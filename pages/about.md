@@ -25,3 +25,5 @@ The below "Liars License" is folded into the scrapbook and appears to have been 
 {% include feature/image.html objectid="/objects/col007_gg_ph57.jpg" width="75" %}
 
 What became of Ardath Caldwell is unknown. We would love to know if she was able to fulfill the class prophecy! Anyone who has information is welcome to contact us so we can update our records.
+
+This project was made possible by a SHARP Operations Grant, funded by the Idaho Humanities Council and National Endowment for the Humanities.
